@@ -34,7 +34,7 @@ export function Header() {
             alt=""
             src="https://github.com/pedrogomes1.png"
             className="h-6 w-6 rounded-full"
-            width={24} // Nextjs reduce and render image with 24px to optimization
+            width={24} // Px i want to load the image .. Nextjs reduce and render image with 24px to optimization
             height={24}
           />
         </Link>
